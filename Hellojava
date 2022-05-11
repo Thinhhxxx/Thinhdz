@@ -1,0 +1,6 @@
+public  class  NguyenGiaThinh_App
+{
+	public  static  void  main ( String [] args ) {
+    	System.out.println(" Nguyễn Gia Thịnh học Java");
+	}
+}
